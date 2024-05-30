@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Alien
+comment1.params=imagePath\ imagePath2
+comment1.target=Alien(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ checkCollision()
+comment4.params=downStep
+comment4.target=void\ moveDown(int)
+numComments=5
